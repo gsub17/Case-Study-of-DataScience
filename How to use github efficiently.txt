@@ -1,0 +1,4 @@
+when ever starting a new project 
+- make a repository of that project in github
+- open cmd 
+- git clone "address of git"
